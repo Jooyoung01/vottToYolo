@@ -22,5 +22,5 @@ python ./vott_to_yolo.py \
 ## Reporting Bugs or Requesting Features
 
 If you encounter any bugs or have a feature request,
-please file an issue using our Issues section.</br>
-Provide as much detail as you can to help us understand the problem or the proposed feature.
+please file an issue using our Issues or Discussions sections.</br>
+Provide as much detail as possible to help us understand the problem or the proposed feature.
