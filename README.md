@@ -23,4 +23,5 @@ python ./vott_to_yolo.py \
 
 If you encounter any bugs or have a feature request,
 please file an issue using our Issues or Discussions sections.</br>
-Provide as much detail as possible to help us understand the problem or the proposed feature.
+Provide as much detail as possible to help us understand the problem or the proposed feature.</bt>
+Cheers!
