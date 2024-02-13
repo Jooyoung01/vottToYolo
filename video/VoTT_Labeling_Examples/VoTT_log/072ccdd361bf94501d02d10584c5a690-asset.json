@@ -1,0 +1,92 @@
+{
+    "asset": {
+        "id": "072ccdd361bf94501d02d10584c5a690",
+        "format": "mov",
+        "state": 2,
+        "type": 3,
+        "name": "REG_long_710_day_2-01_clip2.mov#t=1",
+        "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov#t=1",
+        "size": {
+            "width": 1312,
+            "height": 752
+        },
+        "parent": {
+            "format": "mov",
+            "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+            "name": "REG_long_710_day_2-01_clip2.mov",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 1
+    },
+    "regions": [
+        {
+            "id": "ZVy-R-Cpk",
+            "type": "RECTANGLE",
+            "tags": [
+                "6_OccludedY_LeftN_DayY"
+            ],
+            "boundingBox": {
+                "height": 112.48672326589595,
+                "width": 215.32218309859155,
+                "left": 799.4448011599005,
+                "top": 110.1307803468208
+            },
+            "points": [
+                {
+                    "x": 799.4448011599005,
+                    "y": 110.1307803468208
+                },
+                {
+                    "x": 1014.7669842584921,
+                    "y": 110.1307803468208
+                },
+                {
+                    "x": 1014.7669842584921,
+                    "y": 222.61750361271675
+                },
+                {
+                    "x": 799.4448011599005,
+                    "y": 222.61750361271675
+                }
+            ]
+        },
+        {
+            "id": "F2tDytu_5",
+            "type": "RECTANGLE",
+            "tags": [
+                "7_OccludedY_LeftY_DayY"
+            ],
+            "boundingBox": {
+                "height": 111.21748554913293,
+                "width": 146.82042253521126,
+                "left": 233.384942004971,
+                "top": 137.08616329479767
+            },
+            "points": [
+                {
+                    "x": 233.384942004971,
+                    "y": 137.08616329479767
+                },
+                {
+                    "x": 380.20536454018225,
+                    "y": 137.08616329479767
+                },
+                {
+                    "x": 380.20536454018225,
+                    "y": 248.3036488439306
+                },
+                {
+                    "x": 233.384942004971,
+                    "y": 248.3036488439306
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

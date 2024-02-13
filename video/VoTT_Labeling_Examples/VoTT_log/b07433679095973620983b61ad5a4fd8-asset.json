@@ -1,0 +1,124 @@
+{
+    "asset": {
+        "id": "b07433679095973620983b61ad5a4fd8",
+        "format": "mov",
+        "state": 2,
+        "type": 3,
+        "name": "REG_long_710_day_2-01_clip2.mov#t=0",
+        "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov#t=0",
+        "size": {
+            "width": 1312,
+            "height": 752
+        },
+        "parent": {
+            "format": "mov",
+            "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+            "name": "REG_long_710_day_2-01_clip2.mov",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 0
+    },
+    "regions": [
+        {
+            "id": "_KIbKye3Y",
+            "type": "RECTANGLE",
+            "tags": [
+                "5_OccludedN_LeftY_DayY",
+                "5_OccludedY_LeftY_DayY"
+            ],
+            "boundingBox": {
+                "height": 197.99683887283234,
+                "width": 329.5625517812759,
+                "left": 562.3233222866611,
+                "top": 162.3647940751445
+            },
+            "points": [
+                {
+                    "x": 562.3233222866611,
+                    "y": 162.3647940751445
+                },
+                {
+                    "x": 891.885874067937,
+                    "y": 162.3647940751445
+                },
+                {
+                    "x": 891.885874067937,
+                    "y": 360.36163294797683
+                },
+                {
+                    "x": 562.3233222866611,
+                    "y": 360.36163294797683
+                }
+            ]
+        },
+        {
+            "id": "c22tdecuw",
+            "type": "RECTANGLE",
+            "tags": [
+                "6_OccludedY_LeftN_DayY"
+            ],
+            "boundingBox": {
+                "height": 145.21522760115604,
+                "width": 302.22214167357083,
+                "left": 988.4965824357912,
+                "top": 112.53766257225432
+            },
+            "points": [
+                {
+                    "x": 988.4965824357912,
+                    "y": 112.53766257225432
+                },
+                {
+                    "x": 1290.718724109362,
+                    "y": 112.53766257225432
+                },
+                {
+                    "x": 1290.718724109362,
+                    "y": 257.7528901734104
+                },
+                {
+                    "x": 988.4965824357912,
+                    "y": 257.7528901734104
+                }
+            ]
+        },
+        {
+            "id": "8YcvWFOaE",
+            "type": "RECTANGLE",
+            "tags": [
+                "7_OccludedY_LeftY_DayY"
+            ],
+            "boundingBox": {
+                "height": 92.54822976878611,
+                "width": 111.38276719138359,
+                "left": 161.9236743993372,
+                "top": 129.74665823699422
+            },
+            "points": [
+                {
+                    "x": 161.9236743993372,
+                    "y": 129.74665823699422
+                },
+                {
+                    "x": 273.3064415907208,
+                    "y": 129.74665823699422
+                },
+                {
+                    "x": 273.3064415907208,
+                    "y": 222.29488800578034
+                },
+                {
+                    "x": 161.9236743993372,
+                    "y": 222.29488800578034
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

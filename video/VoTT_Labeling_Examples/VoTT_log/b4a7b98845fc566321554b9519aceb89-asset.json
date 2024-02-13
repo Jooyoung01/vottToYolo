@@ -1,0 +1,92 @@
+{
+    "asset": {
+        "id": "b4a7b98845fc566321554b9519aceb89",
+        "format": "mov",
+        "state": 2,
+        "type": 3,
+        "name": "REG_long_710_day_2-01_clip1.mov#t=2",
+        "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov#t=2",
+        "size": {
+            "width": 1312,
+            "height": 752
+        },
+        "parent": {
+            "format": "mov",
+            "id": "197c3c8358632756e2c147084f450e5c",
+            "name": "REG_long_710_day_2-01_clip1.mov",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "state": 1,
+            "type": 2
+        },
+        "timestamp": 2
+    },
+    "regions": [
+        {
+            "id": "DALJDhM7W",
+            "type": "RECTANGLE",
+            "tags": [
+                "2_OccludedN_LeftY_DayY"
+            ],
+            "boundingBox": {
+                "height": 194.4523121387283,
+                "width": 301.97586992543495,
+                "left": 454.5751864125932,
+                "top": 234.58824060693638
+            },
+            "points": [
+                {
+                    "x": 454.5751864125932,
+                    "y": 234.58824060693638
+                },
+                {
+                    "x": 756.5510563380282,
+                    "y": 234.58824060693638
+                },
+                {
+                    "x": 756.5510563380282,
+                    "y": 429.0405527456647
+                },
+                {
+                    "x": 454.5751864125932,
+                    "y": 429.0405527456647
+                }
+            ]
+        },
+        {
+            "id": "fScIghN5C",
+            "type": "RECTANGLE",
+            "tags": [
+                "3_OccludedY_LeftN_DayY"
+            ],
+            "boundingBox": {
+                "height": 69.48121387283237,
+                "width": 106.26625932062966,
+                "left": 420.72980530240267,
+                "top": 185.4912391618497
+            },
+            "points": [
+                {
+                    "x": 420.72980530240267,
+                    "y": 185.4912391618497
+                },
+                {
+                    "x": 526.9960646230323,
+                    "y": 185.4912391618497
+                },
+                {
+                    "x": 526.9960646230323,
+                    "y": 254.97245303468205
+                },
+                {
+                    "x": 420.72980530240267,
+                    "y": 254.97245303468205
+                }
+            ]
+        }
+    ],
+    "version": "2.2.0"
+}

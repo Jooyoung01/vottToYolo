@@ -1,0 +1,296 @@
+{
+    "name": "truckLabeling",
+    "securityToken": "truckLabeling Token",
+    "sourceConnection": {
+        "name": "REG_long_710_day_2-01",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiODkyMDQ2ZjMyZDRiYTZhMWY1NzU5NmVlMWU0Nzc0OGMzMGQ2MWRhN2I1Yzk1YWRjOGNhMzA4ZjZjMzA4M2QxMTE4ZGYwY2NjMWY0NTcwZGU4MjM2OGI2YThlNTBhOWIwMWRhMWEwOTNlMGRiOGFjYzdmM2QzYjI4MzFiMGU0ZWEiLCJpdiI6IjYxODA1ZTBlYWRhZTkxZmU0NmRmNDMwMTJiOGI3MGM1YTAyMDk4MDQ0YzFmZGFhYyJ9"
+        },
+        "id": "S1v0R2QwJ"
+    },
+    "targetConnection": {
+        "name": "REG_long_710_day_2-01",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDU0ZGZiODY0OTk3NWJmNWNkYzAzZjlmY2RmZmE4NjNiZmRiM2MzYjBmOWZlNzQ2NzkzMmNjNzMyMGU4NzYxNThjODkwNzFkMzgyM2I1Yzk0YmIwMTE5NjNlNDY0MTQwNzgwMmIwYTVlZDAzOTMxMmMxNmYwMTE1MTIzNDcxZDQiLCJpdiI6Ijk4MzkyYjRmYjk3M2I4NmY0ZTIzMjIyNDU5ODcyMTk4YzY0NzE5ZmY5YWE4ZjE5MyJ9"
+        },
+        "id": "S1v0R2QwJ"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 1
+    },
+    "tags": [
+        {
+            "name": "1_OccludedN_LeftY_DayY",
+            "color": "#5db300"
+        },
+        {
+            "name": "2_OccludedN_LeftY_DayY",
+            "color": "#e81123"
+        },
+        {
+            "name": "3_OccludedN_LeftN_DayY",
+            "color": "#6917aa"
+        },
+        {
+            "name": "1_OccludedY_LeftY_DayY",
+            "color": "#015cda"
+        },
+        {
+            "name": "2_OccludedY_LeftY_DayY",
+            "color": "#4894fe"
+        },
+        {
+            "name": "3_OccludedY_LeftN_DayY",
+            "color": "#6b849c"
+        },
+        {
+            "name": "4_OccludedY_LeftY_DayY",
+            "color": "#70c400"
+        },
+        {
+            "name": "5_OccludedN_LeftY_DayY",
+            "color": "#f7929a"
+        },
+        {
+            "name": "5_OccludedY_LeftY_DayY",
+            "color": "#257ffe"
+        },
+        {
+            "name": "6_OccludedN_LeftN_DayY",
+            "color": "#ddabe9"
+        },
+        {
+            "name": "6_OccludedY_LeftN_DayY",
+            "color": "#ff8c00"
+        },
+        {
+            "name": "7_OccludedY_LeftY_DayY",
+            "color": "#386300"
+        },
+        {
+            "name": "7_OccludedN_LeftY_DayY",
+            "color": "#b40e1b"
+        },
+        {
+            "name": "8_OccludedN_LeftY_DayY",
+            "color": "#68217a"
+        }
+    ],
+    "id": "SfDrDms6I",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "vottJson",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjI0NzA1NmU4YzNmZjAzMDQ2Y2Y0OWM0MDE3MGQ5NGM5ODIyZmE5NTA4NTI2NWQwNjBiZTRmNGQzYTQ2ZjBiMTA4ZmM1MzIyN2EyNDVlYjkxZmVkOGU3ZGIyMDdkMmFkIiwiaXYiOiJjYjYxMjdiMzlkZmM4MDIwNTNkZWI1MGViZTk1NTRjY2MwNmIxNzExYmM2MTM3NmYifQ=="
+        }
+    },
+    "version": "2.2.0",
+    "lastVisitedAssetId": "b5e139aef83d54c85d0e2b79ce6ef54a",
+    "assets": {
+        "197c3c8358632756e2c147084f450e5c": {
+            "format": "mov",
+            "id": "197c3c8358632756e2c147084f450e5c",
+            "name": "REG_long_710_day_2-01_clip1.mov",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "state": 2,
+            "type": 2
+        },
+        "b4a7b98845fc566321554b9519aceb89": {
+            "id": "b4a7b98845fc566321554b9519aceb89",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip1.mov#t=2",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov#t=2",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "197c3c8358632756e2c147084f450e5c",
+                "name": "REG_long_710_day_2-01_clip1.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 2
+        },
+        "d30cba03e6927bf690eceb85ce5ac911": {
+            "id": "d30cba03e6927bf690eceb85ce5ac911",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip1.mov#t=3",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov#t=3",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "197c3c8358632756e2c147084f450e5c",
+                "name": "REG_long_710_day_2-01_clip1.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 3
+        },
+        "9b36b53bb5b825395cef3ebe1d7cbfd3": {
+            "id": "9b36b53bb5b825395cef3ebe1d7cbfd3",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip1.mov#t=1",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov#t=1",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "197c3c8358632756e2c147084f450e5c",
+                "name": "REG_long_710_day_2-01_clip1.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 1
+        },
+        "de7b45d7159bd1d4a48e34e9634be010": {
+            "id": "de7b45d7159bd1d4a48e34e9634be010",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip1.mov#t=0",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov#t=0",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "197c3c8358632756e2c147084f450e5c",
+                "name": "REG_long_710_day_2-01_clip1.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip1.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 0
+        },
+        "b5e139aef83d54c85d0e2b79ce6ef54a": {
+            "format": "mov",
+            "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+            "name": "REG_long_710_day_2-01_clip2.mov",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "state": 2,
+            "type": 2
+        },
+        "072ccdd361bf94501d02d10584c5a690": {
+            "id": "072ccdd361bf94501d02d10584c5a690",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip2.mov#t=1",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov#t=1",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+                "name": "REG_long_710_day_2-01_clip2.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 1
+        },
+        "b07433679095973620983b61ad5a4fd8": {
+            "id": "b07433679095973620983b61ad5a4fd8",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip2.mov#t=0",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov#t=0",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+                "name": "REG_long_710_day_2-01_clip2.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 0
+        },
+        "e696bda3670734185c4f02adc8399a4d": {
+            "id": "e696bda3670734185c4f02adc8399a4d",
+            "format": "mov",
+            "state": 2,
+            "type": 3,
+            "name": "REG_long_710_day_2-01_clip2.mov#t=2",
+            "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov#t=2",
+            "size": {
+                "width": 1312,
+                "height": 752
+            },
+            "parent": {
+                "format": "mov",
+                "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+                "name": "REG_long_710_day_2-01_clip2.mov",
+                "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+                "size": {
+                    "width": 1312,
+                    "height": 752
+                },
+                "state": 1,
+                "type": 2
+            },
+            "timestamp": 2
+        }
+    }
+}

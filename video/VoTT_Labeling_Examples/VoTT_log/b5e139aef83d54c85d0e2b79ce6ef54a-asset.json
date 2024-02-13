@@ -1,0 +1,16 @@
+{
+    "asset": {
+        "format": "mov",
+        "id": "b5e139aef83d54c85d0e2b79ce6ef54a",
+        "name": "REG_long_710_day_2-01_clip2.mov",
+        "path": "file:/Users/joocom/projects/vottToYolo/video/REG_long_710_day_2-01_clip2.mov",
+        "size": {
+            "width": 1312,
+            "height": 752
+        },
+        "state": 2,
+        "type": 2
+    },
+    "regions": [],
+    "version": "2.2.0"
+}
