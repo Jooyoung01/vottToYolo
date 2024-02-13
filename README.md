@@ -17,7 +17,10 @@ python ./vott_to_yolo.py \
     --video_ext .mov \
     --img_path ./video/vott-json-export \
     --save_labels
+```
 
-### Reporting Bugs or Requesting Features
+## Reporting Bugs or Requesting Features
 
-If you encounter any bugs or have a feature request, please file an issue using our Issues section. Provide as much detail as you can to help us understand the problem or the proposed feature.
+If you encounter any bugs or have a feature request,
+please file an issue using our Issues section.</br>
+Provide as much detail as you can to help us understand the problem or the proposed feature.
