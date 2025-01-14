@@ -7,13 +7,9 @@ def save_labels(gt_data,target_base_folder, video_ext):
     for img_name, data_list in gt_data.items():
         folder_name = img_name.split(video_ext)[0]
         labels_folder_path = os.path.join(target_base_folder, folder_name, 'labels')
-
-        # Create the specific folder for the image if it doesn't exist
         os.makedirs(labels_folder_path, exist_ok=True)
-
         size_info = data_list[0]['size']
-        # Adjusting file name to remove the time stamp and extension for the label file
-        label_file_name = img_name.replace('.jpg', '.txt')
+        label_file_name = img_name + ".txt"
         label_file_path = os.path.join(labels_folder_path, label_file_name)
 
         with open(label_file_path, 'w') as file:
