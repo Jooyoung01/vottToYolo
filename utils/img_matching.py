@@ -8,7 +8,7 @@ def img_matching_check(gt_data, img_paths=[]):
     # img_tag_mached = []
     for gt_data_each in gt_data:
         for img_name in gt_data_each.keys():
-            print(img_name)
+            # print(img_name)
             file_found = False  # file found flag
             img_name_with_ext = img_name + ".jpg" 
             for img_path in img_paths:
