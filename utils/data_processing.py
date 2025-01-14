@@ -30,9 +30,9 @@ def get_gt_data(vott_file_name, video_id):
                 ##### Tag processing
                 for regions in gt_json['assets'][label_key]['regions']:
                     if len(regions['tags']) > 1:
-                        print(f"> Tag error: {gt_json['assets'][label_key]['asset']['name']} region {regions['id']} has multiple tags: {regions['tags']}")
+                        # print(f"> Tag error: {gt_json['assets'][label_key]['asset']['name']} region {regions['id']} has multiple tags: {regions['tags']}")
                         selected_tag = regions['tags'][-1]
-                        print(f">> Selected tag: {selected_tag}")
+                        # print(f">> Selected tag: {selected_tag}")
                     elif len(regions['tags']) == 1:
                         selected_tag = regions['tags'][0]
                     else:
