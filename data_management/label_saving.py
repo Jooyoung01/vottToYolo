@@ -18,5 +18,4 @@ def save_labels(gt_data,target_base_folder, video_ext):
                 x, y, w, h = convert_to_yolo(size_info, region_info)
                 file.write(f"{class_id} {x:.6f} {y:.6f} {w:.6f} {h:.6f}\n")
                 #print(f"{class_id} {x:.6f} {y:.6f} {w:.6f} {h:.6f}\n")
-        print(f"{label_file_name} was created")
-
+        # print(f"{label_file_name} was created")
