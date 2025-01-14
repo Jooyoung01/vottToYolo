@@ -2,7 +2,7 @@ import glob
 import os
 
 def img_matching_check(gt_data, img_paths=[]):
-    print(img_paths)
+    # print(img_paths)
     error_check = 0
     img_tag_matched_by_path = {path: [] for path in img_paths}
     # img_tag_mached = []
